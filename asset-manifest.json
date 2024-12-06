@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nike-header/static/css/main.92d4cd20.css",
+    "main.js": "/nike-header/static/js/main.662bf592.js",
+    "static/js/453.9946b64f.chunk.js": "/nike-header/static/js/453.9946b64f.chunk.js",
+    "static/media/Jumpman_logo.png": "/nike-header/static/media/Jumpman_logo.db11556ac9cd252c24b8.png",
+    "index.html": "/nike-header/index.html",
+    "main.92d4cd20.css.map": "/nike-header/static/css/main.92d4cd20.css.map",
+    "main.662bf592.js.map": "/nike-header/static/js/main.662bf592.js.map",
+    "453.9946b64f.chunk.js.map": "/nike-header/static/js/453.9946b64f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d4cd20.css",
+    "static/js/main.662bf592.js"
+  ]
+}
